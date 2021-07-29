@@ -1,2 +1,3 @@
 One function that Mac OS provides is great security. They have fewer viruses than Windows. This is due to a partnership with Unix that helps with the security on Mac OS.
 One function that Windows provides is it's abilities to run and access video games. Windows generally have high end software that allows you to play video games on high resolution with no lag. There is also a big variety of games compatible with Windows that you have access to
+One funtion that Mac provides is it's ability to link with other iOS devices. Mac works really well with an iPhone and/or an iPad. Plus they all have a similar look, making it convenient and easy to switch from each device.
