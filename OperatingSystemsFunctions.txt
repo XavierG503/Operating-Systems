@@ -1,0 +1,1 @@
+One function that Mac OS provides is great security. They have fewer viruses than Windows. This is due to a partnership with Unix that helps with the security on Mac OS.
